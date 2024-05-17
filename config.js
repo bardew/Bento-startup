@@ -75,6 +75,18 @@ const CONFIG = {
 			icon: 'chrome',
 			link: 'https://drive.google.com/drive/my-drive',
 		},
+		{
+			id: '5',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
+		},
+		{
+			id: '6',
+			name: 'Desmos',
+			icon: 'square-radical',
+			link: 'https://www.desmos.com/scientific',
+		},
 	],
 
 	secondButtonsContainer: [
@@ -123,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'github',
+			icon: 'sprout',
 			id: '1',
 			links: [
 				{
@@ -142,31 +154,27 @@ const CONFIG = {
 					name: 'Yelp',
 					link: 'https://www.yelp.com/',
 				},
-				{
-					name: 'Github',
-					link: 'https://github.com/',
-				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'flower',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'fflogs',
+					link: 'https://www.fflogs.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'libgen',
+					link: 'https://libgen.re/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Canvas',
+					link: 'https://canvas.cpp.edu/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Bato',
+					link: 'https://mto.to/v3x',
 				},
 			],
 		},
