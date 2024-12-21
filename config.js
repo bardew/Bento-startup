@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			link: 'www.youtube.com/',
 		},
 		{
 			id: '2',
@@ -67,25 +67,25 @@ const CONFIG = {
 			id: '3',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'calendar.google.com/calendar/r',
 		},
 		{
 			id: '4',
 			name: 'Google Drive',
 			icon: 'chrome',
-			link: 'https://drive.google.com/drive/my-drive',
+			link: 'drive.google.com/drive/my-drive',
 		},
 		{
 			id: '5',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'github.com/',
 		},
 		{
 			id: '6',
 			name: 'Desmos',
 			icon: 'square-radical',
-			link: 'https://www.desmos.com/scientific',
+			link: 'www.desmos.com/scientific',
 		},
 	],
 
@@ -94,7 +94,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'open.spotify.com',
 		},
 		{
 			id: '2',
@@ -106,25 +106,25 @@ const CONFIG = {
 			id: '3',
 			name: 'bot',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'discord.com/app',
 		},
 		{
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'amazon.com/',
 		},
 		{
 			id: '5',
 			name: 'Hashnode',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'hashnode.com/',
 		},
 		{
 			id: '6',
 			name: 'Figma',
 			icon: 'figma',
-			link: 'https://figma.com/',
+			link: 'figma.com/',
 		},
 	],
 
@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Reddit',
-					link: 'https://www.reddit.com/',
+					link: 'www.reddit.com/',
 				},
 				{
 					name: 'Twitch',
-					link: 'https://www.twitch.tv/',
+					link: 'www.twitch.tv/',
 				},
 				{
 					name: 'Amazon',
-					link: 'https://www.amazon.com/',
+					link: 'www.amazon.com/',
 				},
 				{
 					name: 'Yelp',
-					link: 'https://www.yelp.com/',
+					link: 'www.yelp.com/',
 				},
 			],
 		},
@@ -162,19 +162,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'fflogs',
-					link: 'https://www.fflogs.com/',
+					link: 'www.fflogs.com/',
 				},
 				{
 					name: 'libgen',
-					link: 'https://libgen.re/',
+					link: 'libgen.re/',
 				},
 				{
 					name: 'Canvas',
-					link: 'https://canvas.cpp.edu/',
+					link: 'canvas.cpp.edu/',
 				},
 				{
 					name: 'Bato',
-					link: 'https://mto.to/v3x',
+					link: 'mto.to/v3x',
 				},
 			],
 		},
@@ -188,19 +188,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					link: 'www.spotify.com',
 				},
 				{
 					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					link: 'www.reddit.com',
 				},
 				{
 					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					link: 'www.hashnode.com',
 				},
 				{
 					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					link: 'www.pocket.com',
 				},
 			],
 		},
@@ -210,19 +210,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					link: 'www.reddit.com/r/Frontend/',
 				},
 				{
 					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					link: 'www.reddit.com/r/rust/',
 				},
 				{
 					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					link: 'www.reddit.com/r/golang/',
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'github.com/migueravila',
 				},
 			],
 		},
