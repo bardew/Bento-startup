@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Desmos',
-			icon: 'square-radical',
-			link: 'https://www.desmos.com/scientific',
+			name: 'WingSpan',
+			icon: 'notebook-pen',
+			link: 'https://my.citruscollege.edu/collection/all/wingspan-students',
 		},
 	],
 
